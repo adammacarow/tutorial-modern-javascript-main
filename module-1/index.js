@@ -1,1 +1,7 @@
 console.log("Hello from console")
+console.log("Hello from console2")
+console.log("Hello from console3")
+console.log("Hello from console4")
+console.log("Hello from console5")
+document.write("<h1>Hello from document</h1>")
+document.write("Hello from document2")
